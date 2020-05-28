@@ -6,7 +6,7 @@
  <p align="center">
  <img  width="400" height="250" src="https://github.com/Terabyte17/Robo-Summer-Camp-20/blob/master/Part2/Subpart%203/SOLUTION/car.png">
      </p>
-### NEWTON'S CRADLE
+NEWTON'S CRADLE
   <p align="center">
  <img  width="400" height="250" src="https://github.com/Terabyte17/Robo-Summer-Camp-20/blob/master/Part2/Subpart%203/SOLUTION/Newton%20Cradle.png">
     </p>
